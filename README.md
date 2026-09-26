@@ -67,7 +67,7 @@ Pour que NextDNS puisse bloquer les sites **sécurisés (HTTPS)** et afficher sa
 le certificat NextDNS doit être installé sur l'appareil. Sans lui, les sites bloqués en HTTPS
 affichent une erreur SSL standard et l'extension ne les détecte pas.
 
-→ Installer le certificat : **[nextdns.io/certificate](https://help.nextdns.io/t/g9hmv0a/how-to-install-and-trust-nextdns-root-ca)**
+→ Installer le certificat : **[Guide NextDNS — installer et approuver le certificat racine](https://help.nextdns.io/t/g9hmv0a/how-to-install-and-trust-nextdns-root-ca)**
 
 Ce prérequis est présenté lors du guide de démarrage (onboarding) qui s'ouvre automatiquement
 à la première installation.
@@ -106,7 +106,7 @@ L'extension est disponible sur Firefox Add-ons (AMO) :
 
 **[Installer NextDNS Reporter pour Firefox →](https://addons.mozilla.org/fr/firefox/addon/nextdns-reporter/)**
 
-Compatible avec Firefox 140 et versions ultérieures.
+Compatible avec Firefox 142 et versions ultérieures.
 
 ---
 
